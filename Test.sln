@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{DB89C02A-E685-4847-8F43-624831AF8969}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sandbox", "Sandbox\Sandbox.csproj", "{B6F6E56E-941F-459A-A409-8F6CA6FFCA71}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1ECD62C8-EEEC-4959-B03C-50868D28EDDF}"
+	ProjectSection(SolutionItems) = preProject
+		loginReq.json = loginReq.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB89C02A-E685-4847-8F43-624831AF8969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB89C02A-E685-4847-8F43-624831AF8969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB89C02A-E685-4847-8F43-624831AF8969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB89C02A-E685-4847-8F43-624831AF8969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F6E56E-941F-459A-A409-8F6CA6FFCA71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F6E56E-941F-459A-A409-8F6CA6FFCA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F6E56E-941F-459A-A409-8F6CA6FFCA71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F6E56E-941F-459A-A409-8F6CA6FFCA71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48CDC8CA-2F0B-436A-900D-CD9152833289}
+	EndGlobalSection
+EndGlobal

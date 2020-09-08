@@ -1,0 +1,14 @@
+  {
+    "CMD": 252,
+    "UID": "l0g1n",
+    "QRY": "{\"USERNAME\":\"admin\",\"PASSWORD\":\"\"}",
+    "EXE": 252,
+    "HNDL": 133844,
+    "VER": "2.42.3.5",
+    "MOD": 0,
+    "ADMIN": 0,
+    "COUNTER": 2,
+    "BROADCAST": 1,
+    "LANGUAGE": 0,
+    "CLIENT": 1
+  }
